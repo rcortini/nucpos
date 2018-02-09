@@ -1,0 +1,5 @@
+data/density_profiles
+data/energy_profiles
+notes/.ipynb_checkpoints
+*.swp
+*.pyc
